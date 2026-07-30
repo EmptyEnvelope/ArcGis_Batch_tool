@@ -1,3 +1,3 @@
-输入存放gdb/mdb/shp文件的文件夹，脚本会自动往下遍历到所有的文件，呈现在二号框，然后勾上就会自动添加到待合并队列，待合并队列旁边也有按钮你也可以手动删除或者添加单个文件。批量合并界面差不多一个逻辑，把需要处理的gdb丢一个文件夹里全选上就完事了
+输入存放gdb/mdb/shp文件的文件夹，脚本会自动往下遍历到所有的文件，呈现在二号框，然后勾上就会自动添加到待合并队列，待合并队列旁边也有按钮你也可以手动删除或者添加单个文件。批量合并界面差不多一个逻辑，把需要处理的gdb丢一个文件夹里全选上就完事了 */
 Enter the folder where the gdb/mdb/shp files are stored. The script will automatically go through all the files and show them in the second box. Then you just check them to automatically add them to the merge queue. Next to the merge queue, there are also buttons so you can manually delete or add individual files. The bulk merge interface works in a pretty similar way. Just put all the gdbs you need to process into one folder, select them all, and you're done.
 <img width="583" height="654" alt="屏幕截图 2026-07-30 103038" src="https://github.com/user-attachments/assets/30d61425-9b0e-4c5a-a998-f6284f5672cc" />
